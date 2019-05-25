@@ -1,0 +1,2 @@
+# Don't track provided *.txt data
+*.txt
