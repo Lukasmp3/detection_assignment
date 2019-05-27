@@ -1,2 +1,6 @@
 # Don't track provided *.txt data
 *.txt
+
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
