@@ -1,0 +1,15 @@
+POST http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=maijala&pwd=indiv%21idualmente&remember=on%2F&B1=Entrar HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Pragma: no-cache
+Cache-control: no-cache
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5
+Accept-Language: en
+Host: localhost:8080
+Cookie: JSESSIONID=3ECD617061D9FB70E5BA4F9114F08620
+Content-Type: application/x-www-form-urlencoded
+Connection: close
+Content-Length: 33
+
+errorMsg=Credenciales+incorrectasasfa

@@ -1,5 +1,7 @@
 # Don't track provided *.txt data
-*.txt
+normalTrafficTest.txt
+normalTrafficTraining.txt
+anomalousTrafficTest.txt
 
 # Ignore .ipynb_checkpoints folder
 .ipynb_checkpoints/
